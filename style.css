@@ -1,1 +1,22 @@
-/*Personal Web Page Style Sheet */
+body {background-color: coral;
+    font-family: sans-serif;
+}
+
+h1 {text-align: center;}
+
+h2 {text-align: center;}
+
+p {padding-left: 20px;
+    padding-right: 20px;
+}
+
+ul {text-align: center;
+    list-style: none;
+    font-size: 20px;
+}
+
+div {padding-right: 50px;}
+
+a:link {color: floralwhite;}
+a:hover {color: black;}
+a:visited {color: blue;}
